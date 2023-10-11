@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph//file/8675e75ef634fce0b8102.jpg">
+  <img src="https://telegra.ph/file/312623ecfa3eb3979220b.jpg">
 </p>
 <h1 align="center">
-  <b>Assistant Key​</b>
+  <b>Assistant ELL</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon and Pyrogram</b>
